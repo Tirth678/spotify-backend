@@ -216,7 +216,6 @@ npm run dev
 Test the API using tools like:
 - Postman
 - Thunder Client
-- cURL
 
 Example cURL request:
 ```bash
@@ -255,7 +254,7 @@ ISC
 
 ## Author
 
-Your Name
+Tirth S Pandya
 
 ## Support
 
