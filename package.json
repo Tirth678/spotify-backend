@@ -1,6 +1,6 @@
 {
   "name": "spotify-backend",
-  "version": "1.7.3",
+  "version": "1.7.7",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This is a spotify like backend project to deep give into express JS, node JS and mongoDB to understand how actually backend is impleneted in industry. This package.json and repositary contains all the code, have a look on README.md to run it locally.",
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "cookie-parser": "^1.4.7",
